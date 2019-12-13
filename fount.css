@@ -1,0 +1,7 @@
+@font-face {
+    font-family: mypyi;
+    src: url("../zaw.ttf");
+}
+body{
+    font-family:mypyi;
+}
